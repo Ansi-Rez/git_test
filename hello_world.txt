@@ -1,1 +1,2 @@
 Hello this is a git test
+Just doing a commit message test
